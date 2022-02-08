@@ -6,7 +6,6 @@ function App() {
   return (
     <div>
       <MyNavbar branding='Strivestaurant' />
-      {/* now here's the place for my home section! */}
       <Home />
     </div>
   )
