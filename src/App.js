@@ -7,6 +7,7 @@ function App() {
     <div>
       <MyNavbar branding='Strivestaurant' />
       <Home />
+      <Home />
     </div>
   )
 }
